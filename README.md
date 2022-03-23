@@ -4,7 +4,7 @@ I am Onesmus, a budding Developer.
 
 🔭 I’m currently working on microservices with spring boot and an android app in flutter.
 
-🌱 I’m learning Spring, Flutter, GraphQL and AWS
+🌱 I’m learning Spring, Flutter and PHP
 
 💬 Ask me about Java
 
