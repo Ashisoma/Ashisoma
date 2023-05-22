@@ -8,6 +8,8 @@ I am Onesmus, a budding Developer.
 
 💬 Ask me about Java
 
+- 📄 Know about my experiences in my **[LinkedIn](https://www.linkedin.com/in/onesmus-okali-a77799202/)**
+
 
 # Status
 
