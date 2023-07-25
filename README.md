@@ -2,11 +2,11 @@
  
 I am Onesmus, a budding Developer.
 
-🔭 I’m working on microservices with spring boot and an Android app in Flutter.
+🔭 I’m working on microservices with Spring Boot and Android apps in Flutter.
 
-🌱 I’m learning Spring, Flutter and PHP
+🌱 I’m into JS, Flutter and PHP
 
-💬 Ask me about Java
+<!--💬 Ask me about Java-->
 
 📄 Learn about my experiences in my **[LinkedIn](https://www.linkedin.com/in/onesmus-okali-a77799202/)**
 
